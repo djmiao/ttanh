@@ -1531,4 +1531,4 @@ zucks.co.jp = 0.0.0.0
 zucks.net = 0.0.0.0
 zumobi.com = 0.0.0.0
 zwaar.org = 0.0.0.0
-api.cloudmobi.net =0.0.0.0
+api.cloudmobi.net = 0.0.0.0
